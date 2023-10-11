@@ -1,0 +1,4 @@
+chrome-extension://invalid/:1     Failed to load resource: net::ERR_FAILED
+6217235977:1     Failed to load resource: the server responded with a status of 400 (Bad Request)
+(index):6586 crbug/1173575, non-JS module files deprecated.
+(anonymous) @ (index):6586
